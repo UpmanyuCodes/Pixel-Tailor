@@ -1,7 +1,7 @@
 """
 Seam carving: make an image narrower without squeezing the objects.
 
-Needs:  pip install numpy pillow
+Needs:pip install numpy pillow 
 """
 import numpy as np
 from PIL import Image
